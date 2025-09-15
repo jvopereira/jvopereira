@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is João Pereira! 👋</h2>
+<h2 align="left">Hello, World! My name is João Pereira! 👋</h2>
 
 ###
 
